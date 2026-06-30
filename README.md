@@ -1,1 +1,1 @@
-this is my project while im lern Python 
+nnnnthis is my project while im lern Python 
